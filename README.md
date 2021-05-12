@@ -10,6 +10,13 @@ Languages:
 - 🐍 Python
 - 🥞 SQL
 - ˃_ Command Line
+- 📉 Tableau
+
+Libraries:
+- 🐼 Pandas
+- 🧪 Scipy
+- 🌊 Seaborn
+- 🔢 Numpy
 
 👍🏻 Aggie Band Class of '13
 
