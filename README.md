@@ -22,5 +22,8 @@ Libraries:
 
 ⚡ Fun facts: I am a performer and a musician ~~ 🎹 I play and teach Piano ~~ 💃 Tap Dance ~~ 🎭 Perform in musical theater ~~ 📖 And I love to read  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HeatherOrtegaMcMillan&theme=anvue-dark)](https://git.io/streak-stats)
+
+
 <!--
 **HeatherOrtegaMcMillan/HeatherOrtegaMcMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
