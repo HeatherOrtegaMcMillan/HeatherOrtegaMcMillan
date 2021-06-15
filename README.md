@@ -2,7 +2,7 @@
 
 ### I'm an aspiring Data Scientist with a passion for solving problems. 
 
-#### You can connect with me through LinkedIn
+#### You can connect with me through [LinkedIn](https://www.linkedin.com/in/heatheromcmillan/)
 
 🌱 I’m currently learning Data Science at Codeup
 
@@ -16,6 +16,8 @@ Libraries:
 - 🐼 Pandas
 - 🧪 Scipy
 - 🌊 Seaborn
+- 📊 Matplotlib
+- 👩‍🔬 Scikit learn
 - 🔢 Numpy
 
 👍🏻 Aggie Band Class of '13
