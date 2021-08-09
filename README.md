@@ -1,6 +1,6 @@
 ## Hi, My Name Is Heather Ortega McMillan
 
-### I'm an aspiring Data Scientist with a passion for solving problems. 
+### Data Scientist, Problem Solver
 
 #### You can connect with me through [LinkedIn](https://www.linkedin.com/in/heatheromcmillan/)
 
@@ -11,6 +11,7 @@ Languages:
 - 🥞 SQL
 - ˃_ Command Line
 - 📉 Tableau
+- ✨ Spark
 
 Libraries:
 - 🐼 Pandas
