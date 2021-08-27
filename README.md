@@ -7,7 +7,7 @@ Welcome to my github page! Glad to have you here. Some of the projects you won't
 - My [NLP Readme Project](https://github.com/heather-desiree-carl-NLP-project/NLP-group-project)
 - [In Vino Veritas](https://github.com/HeatherOrtegaMcMillan/in_vino_veritas) my wine analysis project
 
-## Thanks for stopping by! 
+### Thanks for stopping by! 
 
 #### You can connect with me through [LinkedIn](https://www.linkedin.com/in/heatheromcmillan/)
 
